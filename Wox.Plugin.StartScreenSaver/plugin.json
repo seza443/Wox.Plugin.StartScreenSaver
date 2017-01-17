@@ -1,0 +1,12 @@
+﻿{
+  "ID": "6691c2d622a14ff9bf5003aa0bf243c3", 
+  "ActionKeyword": "scr",
+  "Name": "Start Screensaver",
+  "Description": "Plugin that allow you to to list and run one of yours screensaver",
+  "Author": "seza443",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/seza443/Wox.Plugin.StartScreenSaver",
+  "IcoPath": "Images\\ico.png",
+  "ExecuteFileName": "Wox.Plugin.StartScreenSaver.dll"
+}
